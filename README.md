@@ -76,5 +76,5 @@ This is the app that would be used by the Teachers to manage the number of **Vid
 - Adobe xD: For user experience and Prototyping.
 
 # Project Mentor
-- [Rahul Kesharwani](https://github.com/RahulKesharwani353)
+- [Mohit Dhamejani](https://github.com/mohit-dhamejani)
 
